@@ -21,7 +21,7 @@ export function Footer() {
                         </a>
                         <span>|</span>
                         <a
-                            href="https://github.com/yourusername/whois-lookup"
+                            href="https://github.com/anhao/whois-lookup"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="hover:text-foreground transition-colors"
